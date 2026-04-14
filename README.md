@@ -32,7 +32,9 @@
 ---
 
 ## 1. 获取代码
-
+```bash
+git clone https://github.com/vincent-sjh/Exp1.git
+```
 将仓库克隆或解压到本地目录，下文以 `Exp1` 表示项目根目录（包含 `run_experiments.py` 的文件夹）。
 
 ---
