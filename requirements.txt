@@ -1,0 +1,7 @@
+# 第三方库（pip install -r requirements.txt）
+numpy>=1.24
+pillow>=10.0
+# Pillow 安装后通过 import PIL 使用（Image 等）
+#
+# 以下为 Python 自带标准库，勿写入本文件：
+#   os, argparse, sys — run_experiments.py、工具脚本会用到，无需 pip
